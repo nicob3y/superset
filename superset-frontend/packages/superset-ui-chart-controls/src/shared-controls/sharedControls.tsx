@@ -162,7 +162,7 @@ const granularity: SharedControlConfig<'SelectControl'> = {
     ['PT5M', t('5 minutes')],
     ['PT30M', t('30 minutes')],
     ['PT1H', t('1 hour')],
-    ['PT6H', t('6 hour')],
+    ['PT6H', t('6 hours')],
     ['P1D', t('1 day')],
     ['P7D', t('7 days')],
     ['P1W', t('week')],

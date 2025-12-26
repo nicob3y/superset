@@ -31,7 +31,7 @@ export const TITLE_POSITION_OPTIONS: [string, string][] = [
 ];
 
 export const titleControls: ControlPanelSectionConfig = {
-  label: t('Chart Title'),
+  label: t('Chart title'),
   tabOverride: 'customize',
   expanded: true,
   controlSetRows: [

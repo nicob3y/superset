@@ -491,7 +491,7 @@ const AgGridDataTable: FunctionComponent<AgGridTableProps> = memo(
             groupBy: t('Group By'),
             ungroupBy: t('Ungroup By'),
             resetColumns: t('Reset Columns'),
-            expandAll: t('Expand All'),
+            expandAll: t('Expand all'),
             collapseAll: t('Collapse All'),
             toolPanel: t('Tool Panel'),
             export: t('Export'),

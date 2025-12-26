@@ -28,6 +28,7 @@ x-superset-user: &superset-user root
 x-superset-volumes: &superset-volumes
   # /app/pythonpath_docker will be appended to the PYTHONPATH in the final container
   - ./docker:/app/docker
+  - ./scripts:/app/scripts
   - ./superset:/app/superset
   - ./superset-core:/app/superset-core
   - ./superset-frontend:/app/superset-frontend
