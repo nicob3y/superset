@@ -307,7 +307,7 @@ const config: ControlPanelConfig = {
       ],
     },
     {
-      label: t('Chart Title'),
+      label: t('Chart title'),
       tabOverride: 'customize',
       expanded: true,
       controlSetRows: [
